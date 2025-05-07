@@ -1,3 +1,7 @@
+ShadowFox_Task_05/
+├── task_05.py         # Main Python script
+└── README.md          # Project description and usage
+
 # ShadowFox_Task_05
 Python program simulating a six-sided die roll and a jumping jacks workout routine with interactive user input and statistics tracking.
 
