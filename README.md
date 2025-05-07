@@ -32,3 +32,16 @@ This task involves creating a Python program that combines two mini-projects:
    ```bash
    git clone https://github.com/your-username/ShadowFox_Task_05.git
    cd ShadowFox_Task_05
+
+---
+
+### ✅ What You Should Do:
+
+1. Create a GitHub repo named **`ShadowFox_Task_05`**.
+2. Add:
+   - `task_05.py` (Python script).
+   - `README.md` (use the content above).
+3. Push to GitHub.
+4. Share the link in your internship task submission as proof.
+
+Would you like me to generate the `task_05.py` file content for direct copy-pasting as well?
